@@ -8,7 +8,7 @@
 // @match        https://tv.nrk.no/serie/*
 // @match        https://tv.nrk.no/program/*
 // @icon         https://www.google.com/s2/favicons?domain=nrk.no
-// @require      https://openuserjs.org/src/libs/sizzle/GM_config.js
+// @require      https://raw.githubusercontent.com/sizzlemctwizzle/GM_config/master/gm_config.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // ==/UserScript==

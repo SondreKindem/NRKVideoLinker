@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NRK link intercept
 // @namespace    https://github.com/SondreKindem
-// @version      1.0
+// @version      1.1
 // @description  Adds a button that copies the video m3u3 playlist to clipboard
 // @author       Sonkin
 // @homepage     https://github.com/SondreKindem/NRKVideoLinker
